@@ -1,4 +1,4 @@
-package com.starterrnp;
+package com.album.weddinginviter;
 
 import com.reactnativenavigation.controllers.SplashActivity;
 

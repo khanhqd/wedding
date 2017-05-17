@@ -1,22 +1,12 @@
-package com.starterrnp;
+package com.album.weddinginviter;
 
-import android.app.Application;
-import android.util.Log;
-
-import com.facebook.react.ReactApplication;
-import com.burnweb.rnsendintent.RNSendIntentPackage;
-import com.cmcewen.blurview.BlurViewPackage;
 import com.oblador.vectoricons.VectorIconsPackage;
-import com.facebook.react.ReactInstanceManager;
-import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
-import com.facebook.react.shell.MainReactPackage;
-import com.facebook.soloader.SoLoader;
 import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;
-import com.burnweb.rnsendintent.RNSendIntentPackage;
 import com.reactnativenavigation.NavigationApplication;
 import android.support.annotation.Nullable;
 import com.reactnative.photoview.PhotoViewPackage;
+import com.weddinginviter.BuildConfig;
 
 import java.util.Arrays;
 import java.util.List;
